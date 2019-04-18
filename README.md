@@ -38,3 +38,7 @@ Hi, I am Prescott😊
 Course | CSCI 3250
 ------------ | ------------ 
 Comment| good
+
+
+![Image of shot1](https://github.com/csci3250-2019/student-1155110849/blob/master/WechatIMG324.png)
+![Image of shot1](https://github.com/csci3250-2019/student-1155110849/blob/master/WechatIMG325.png)
